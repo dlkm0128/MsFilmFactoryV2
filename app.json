@@ -1,8 +1,8 @@
 {
-    "name": "LazyPrincessV2",
-    "description": "LazyPrincess with Url Shortner",
+    "name": "MsFilmFactoryV2",
+    "description": "Ms Film Factory with Url Shortner",
     "stack": "container",
-    "logo": "https://telegra.ph/file/68d28011b2bc356b5db01.png",
+    "logo": "https://telegra.ph/file/8c5b584dd3f9b2ed31d87.jpg",
     "keywords": [
       "telegram",
       "auto-filter",
@@ -16,8 +16,8 @@
       "index",
       "inline"
     ],
-    "website": "https://github.com/LazyDeveloperr",
-    "repository": "https://github.com/LazyDeveloperr/LazyPrincessV2",
+    "website": "https://github.com/mrmalikoffl/MsFilmFactoryV2",
+    "repository": "https://github.com/mrmalikoffl/MsFilmFactoryV2",
     "env": {
         "BOT_TOKEN": {
             "description": "Your bot token.",
