@@ -1,8 +1,8 @@
 <p align="center">
-  <img src="https://telegra.ph/file/68d28011b2bc356b5db01.png" alt="Lazy Princess Logo">
+  <img src="https://telegra.ph/file/8c5b584dd3f9b2ed31d87.jpg" alt="Lazy Princess Logo">
 </p>
 <h1 align="center">
-  <b> Lazy PrincessV2.0 </b>
+  <b> Ms Film Factory </b>
 </h1>
 
 
@@ -64,13 +64,13 @@ Read [this](https://telegram.dog/sources_cods) before you start messing up with 
 You can deploy this bot anywhere.
 
 
-<a target="_blank" href="https://app.koyeb.com/deploy?type=git&repository=github.com/LazyDeveloperr/LazyPrincessv2&branch=master&name=lazyprincessbot"><img alt="Deploy to Koyeb" src="https://binbashbanana.github.io/deploy-buttons/buttons/remade/koyeb.svg"></a>
+<a target="_blank" href="https://app.koyeb.com/deploy?type=git&repository=github.com/mrmalikoffl/MsFilmFactoryV2&branch=master&name=MsFilmFactory_Bot"><img alt="Deploy to Koyeb" src="https://binbashbanana.github.io/deploy-buttons/buttons/remade/koyeb.svg"></a>
 
 
 <details><summary>Deploy To Heroku</summary>
 <p>
 <br>
-<a href="https://heroku.com/deploy?template=https://github.com/LazyDeveloperr/LazyPrincessv2">
+<a href="https://heroku.com/deploy?template=https://github.com/mrmalikoffl/MsFilmFactoryV2">
   <img src="https://www.herokucdn.com/deploy/button.svg" alt="Deploy">
 </a>
 </p>
@@ -79,7 +79,7 @@ You can deploy this bot anywhere.
 <details><summary>Deploy To VPS</summary>
 <p>
 <pre>
-git clone https://github.com/LazyDeveloperr/LazyPrincessv2
+git clone https://github.com/mrmalikoffl/MsFilmFactoryV2
 # Install Packages
 pip3 install -U -r requirements.txt
 Edit info.py with variables as given below then run bot
@@ -118,16 +118,16 @@ python3 bot.py
 • /link - to create link for one post
 ```
 ## Support
-[![telegram badge](https://img.shields.io/badge/Telegram-Group-30302f?style=flat&logo=telegram)](https://telegram.dog/LazyPrincessSupport)
-[![telegram badge](https://img.shields.io/badge/Telegram-Channel-30302f?style=flat&logo=telegram)](https://telegram.dog/LazyDeveloper)
+[![telegram badge](https://img.shields.io/badge/Telegram-Group-30302f?style=flat&logo=telegram)](https://t.me/+n7PyxeUCLGQwMTA1)
+[![telegram badge](https://img.shields.io/badge/Telegram-Channel-30302f?style=flat&logo=telegram)](https://telegram.dog/mrmalik_offl)
 
 ## with Love  
-* [![LazyPrincess-Devs](https://img.shields.io/static/v1?label=LazyPrincess&message=devs&color=critical)](https://telegram.dog/LazyDeveloper)
+* [![LazyPrincess-Devs](https://img.shields.io/static/v1?label=MrMalik&message=devs&color=critical)](https://telegram.dog/mrmalik_offl)
 
 
 ## Thanks to 
- - 🦋 Thank you [LazyDeveloper](https://github.com/LazyDeveloperr) for helping us in this journey ❤️.
- - 🔺 From the side of [LazyDeveloper](https://github.com/LazyDeveloperr) Thank you [Team-EvaMaria](https://github.com/EvamariaTG) for their awesome repository.
+ - 🦋 Thank you [MrMalik](https://github.com/mrmalikoffl) for helping us in this journey ❤️.
+ - 🔺 From the side of [MrMalik](https://github.com/mrmalikoffl) Thank you [Team-EvaMaria](https://github.com/EvamariaTG) for their awesome repository.
  - 🔺 Thanks To Dan For His Awesome [Library](https://github.com/pyrogram/pyrogram).
  - 🔺 Thanks To Mahesh For His Awesome [Media-Search-bot](https://github.com/Mahesh0253/Media-Search-bot).
  - 🔺 Thanks To [Trojanz](https://github.com/trojanzhex) for Their Awesome [Unlimited Filter Bot](https://github.com/TroJanzHEX/Unlimited-Filter-Bot) And [AutoFilterBoT](https://github.com/trojanzhex/auto-filter-bot).
@@ -135,7 +135,7 @@ python3 bot.py
 
 ### Note
 
-[Join Developer Channel](https://telegram.dog/LazyDeveloper): LazyDeveloper
+[Join Developer Channel](https://t.me/+rN9QCFgIihgyZWM1): MS Bots
 
 ## Disclaimer
 [![GNU Affero General Public License 2.0](https://www.gnu.org/graphics/agplv3-155x51.png)](https://www.gnu.org/licenses/agpl-3.0.en.html#header)    
