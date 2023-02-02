@@ -443,6 +443,15 @@ async def cb_handler(client: Client, query: CallbackQuery):
         ]]
         reply_markup = InlineKeyboardMarkup(buttons)
         await query.message.edit_text(
+            text="▮▯▯"
+        )
+        await query.message.edit_text(
+            text="▮▮▯"
+        )
+        await query.message.edit_text(
+            text="▮▮▮"
+        )
+        await query.message.edit_text(
             text=script.START_TXT.format(query.from_user.mention, temp.U_NAME, temp.B_NAME),
             reply_markup=reply_markup,
             parse_mode=enums.ParseMode.HTML
@@ -460,6 +469,15 @@ async def cb_handler(client: Client, query: CallbackQuery):
         ]]
         reply_markup = InlineKeyboardMarkup(buttons)
         await query.message.edit_text(
+            text="▮▯▯"
+        )
+        await query.message.edit_text(
+            text="▮▮▯"
+        )
+        await query.message.edit_text(
+            text="▮▮▮"
+        )
+        await query.message.edit_text(
             text=script.HELP_TXT.format(query.from_user.mention),
             reply_markup=reply_markup,
             parse_mode=enums.ParseMode.HTML
@@ -469,6 +487,15 @@ async def cb_handler(client: Client, query: CallbackQuery):
             InlineKeyboardButton('🏠 H𝙾𝙼𝙴 🏠', callback_data='start'),
          ]]
         reply_markup = InlineKeyboardMarkup(buttons)
+        await query.message.edit_text(
+            text="▮▯▯"
+        )
+        await query.message.edit_text(
+            text="▮▮▯"
+        )
+        await query.message.edit_text(
+            text="▮▮▮"
+        )
         await query.message.edit_text(
             text=script.ABOUT_TXT.format(temp.B_NAME),
             reply_markup=reply_markup,
