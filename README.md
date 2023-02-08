@@ -49,13 +49,13 @@ Read [this](https://telegram.dog/sources_cods) before you start messing up with 
 * `DATABASE_NAME`: Name of the database in [mongoDB](https://www.mongodb.com). For more help watch this [video](https://youtu.be/h9QjSSmk5tw)
 * `LOG_CHANNEL` : A channel to log the activities of bot. Make sure bot is an admin in the channel.
 
-- 🌟 𝐎𝐩𝐭𝐢𝐨𝐧𝐚𝐥 𝐕𝐚𝐫𝐢𝐚𝐛𝐥𝐞𝐬
+🌟 𝐎𝐩𝐭𝐢𝐨𝐧𝐚𝐥 𝐕𝐚𝐫𝐢𝐚𝐛𝐥𝐞𝐬
 
 * `PICS`: Telegraph links of images to show in start message.( Multiple images can be used separated by space )
 * `FILE_STORE_CHANNEL`: Channel from were file store links of posts should be made.Separate multiple IDs by space
 * Check [info.py](https://github.com/AM-ROBOTS/AdvAnurag/blob/main/info.py) for more
 
-- 🌟 𝐄𝐱𝐭𝐫𝐚 𝐕𝐚𝐫𝐢𝐚𝐛𝐥𝐞𝐬
+🌟 𝐄𝐱𝐭𝐫𝐚 𝐕𝐚𝐫𝐢𝐚𝐛𝐥𝐞𝐬
 
 * `URL_SHORTENR_WEBSITE`: URL Shortener Website Link ( Without https://)
 * `URL_SHORTNER_WEBSITE_API`: URL Shortener Website API key
