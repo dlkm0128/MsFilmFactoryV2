@@ -6,7 +6,7 @@
 🌟 𝐅𝐞𝐚𝐭𝐮𝐫𝐞𝐬
 
  - 🔥 New feature : 
- - 🔥 ⚡️ Support 2GB + Files ⚡️
+ - 🔥 Support 2GB + Files ⚡️
  - 🔥 Auto Filter
  - 🔥 Manual Filter
  - 🔥 IMDB
@@ -136,11 +136,11 @@ python3 bot.py
 🌟 𝐒𝐮𝐩𝐩𝐨𝐫𝐭
 
 [![telegram badge](https://img.shields.io/badge/Telegram-Group-30302f?style=flat&logo=telegram)](https://t.me/+n7PyxeUCLGQwMTA1)
-[![telegram badge](https://img.shields.io/badge/Telegram-Channel-30302f?style=flat&logo=telegram)](https://telegram.dog/mrmalik_offl)
+[![telegram badge](https://img.shields.io/badge/Telegram-Developer-30302f?style=flat&logo=telegram)](https://telegram.dog/mrmalik_offl)
 
 🌟 𝐖𝐢𝐭𝐡 𝐋𝐨𝐯𝐞
 
-* [![LazyPrincess-Devs](https://img.shields.io/static/v1?label=MrMalik&message=devs&color=critical)](https://telegram.dog/mrmalik_offl)
+* [![MrMalik-Devs](https://img.shields.io/static/v1?label=MrMalik&message=devs&color=critical)](https://telegram.dog/mrmalik_offl)
 
 
 🌟 𝐓𝐡𝐚𝐧𝐤𝐬 𝐭𝐨
