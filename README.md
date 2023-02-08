@@ -140,7 +140,7 @@ python3 bot.py
 
 🌟 𝐖𝐢𝐭𝐡 𝐋𝐨𝐯𝐞
 
-* [![MrMalik-Devs](https://img.shields.io/static/v1?label=MrMalik&message=devs&color=critical)](https://telegram.dog/mrmalik_offl)
+[![MrMalik-Devs](https://img.shields.io/static/v1?label=MrMalik&message=devs&color=critical)](https://telegram.dog/mrmalik_offl)
 
 
 🌟 𝐓𝐡𝐚𝐧𝐤𝐬 𝐭𝐨
