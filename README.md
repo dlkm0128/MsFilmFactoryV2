@@ -6,7 +6,7 @@
 </h1>
 
 
-🌟 Features
+🌟 𝐅𝐞𝐚𝐭𝐮𝐫𝐞𝐬
 
  - 🔥 New feature : 
  - 🔥 ⚡️ Support 2GB + Files ⚡️
@@ -24,22 +24,22 @@
  - 🔥 Spelling Check Feature
  - 🔥 File Store
 
-🌟 What's New ?
+🌟 𝐖𝐡𝐚𝐭'𝐬 𝐍𝐞𝐰 ?
 
  - ⚡️ URL Shortener Added
  - ⚡️ Self Delete Added (Auto delete)
  - ⚡️ Filter On Off Option Added
  - ⚡️ Custom Welcome Message
- - ⚡️ URL Shortener Added
  - ⚡️ Custom Download Name And URL
  - ⚡️ Custom Texts (About, Help, Stats,More..)
  - ⚡️ Custom URL Buttons (Updates channel, Add To Group, Force Sub, More...)
 
-🌟 Variables
+🌟 𝐕𝐚𝐫𝐢𝐚𝐛𝐥𝐞𝐬
 
 Read [this](https://telegram.dog/sources_cods) before you start messing up with your edits.
 
-🌟 Required Variables
+🌟 𝐑𝐞𝐪𝐮𝐢𝐫𝐞𝐝 𝐕𝐚𝐫𝐢𝐚𝐛𝐥𝐞𝐬
+
 * `BOT_TOKEN`: Create a bot using [@BotFather](https://telegram.dog/BotFather), and get the Telegram API token.
 * `API_ID`: Get this value from [telegram.org](https://my.telegram.org/apps)
 * `API_HASH`: Get this value from [telegram.org](https://my.telegram.org/apps)
@@ -48,11 +48,15 @@ Read [this](https://telegram.dog/sources_cods) before you start messing up with 
 * `DATABASE_URI`: [mongoDB](https://www.mongodb.com) URI. Get this value from [mongoDB](https://www.mongodb.com). For more help watch this [video](https://youtu.be/h9QjSSmk5tw)
 * `DATABASE_NAME`: Name of the database in [mongoDB](https://www.mongodb.com). For more help watch this [video](https://youtu.be/h9QjSSmk5tw)
 * `LOG_CHANNEL` : A channel to log the activities of bot. Make sure bot is an admin in the channel.
-- 🌟 Optional Variables
+
+- 🌟 𝐎𝐩𝐭𝐢𝐨𝐧𝐚𝐥 𝐕𝐚𝐫𝐢𝐚𝐛𝐥𝐞𝐬
+
 * `PICS`: Telegraph links of images to show in start message.( Multiple images can be used separated by space )
 * `FILE_STORE_CHANNEL`: Channel from were file store links of posts should be made.Separate multiple IDs by space
 * Check [info.py](https://github.com/AM-ROBOTS/AdvAnurag/blob/main/info.py) for more
-- 🌟 EXTRA FEATURES
+
+- 🌟 𝐄𝐱𝐭𝐫𝐚 𝐕𝐚𝐫𝐢𝐚𝐛𝐥𝐞𝐬
+
 * `URL_SHORTENR_WEBSITE`: URL Shortener Website Link ( Without https://)
 * `URL_SHORTNER_WEBSITE_API`: URL Shortener Website API key
 * `SELF_DELETE`: True if SELF_DELETE is On, False if Off
@@ -61,7 +65,8 @@ Read [this](https://telegram.dog/sources_cods) before you start messing up with 
 * `ABOUT_TXT`: Enter Your About Message 
 
 
-🌟 Deploy
+🌟 𝐃𝐞𝐩𝐥𝐨𝐲
+
 You can deploy this bot anywhere.
 
 <details><summary>Deploy To Koyeb</summary>
@@ -93,7 +98,7 @@ python3 bot.py
 </details>
 
 
-🌟 Commands
+🌟 𝐂𝐨𝐦𝐦𝐚𝐧𝐝𝐬
 ```
 👉🏻 /logs - to get the rescent errors
 👉🏻 /stats - to get status of files in db.
@@ -121,15 +126,18 @@ python3 bot.py
 👉🏻 /batch - to create link for multiple posts
 👉🏻 /link - to create link for one post
 ```
-🌟 Support
+🌟 𝐒𝐮𝐩𝐩𝐨𝐫𝐭
+
 [![telegram badge](https://img.shields.io/badge/Telegram-Group-30302f?style=flat&logo=telegram)](https://t.me/+n7PyxeUCLGQwMTA1)
 [![telegram badge](https://img.shields.io/badge/Telegram-Channel-30302f?style=flat&logo=telegram)](https://telegram.dog/mrmalik_offl)
 
-🌟 with Love  
+🌟 𝐖𝐢𝐭𝐡 𝐋𝐨𝐯𝐞
+
 * [![LazyPrincess-Devs](https://img.shields.io/static/v1?label=MrMalik&message=devs&color=critical)](https://telegram.dog/mrmalik_offl)
 
 
-🌟 Thanks to 
+🌟 𝐓𝐡𝐚𝐧𝐤𝐬 𝐭𝐨
+ 
  - ❤️ Thank you [MrMalik](https://github.com/mrmalikoffl) for helping us in this journey ❤️.
  - ❤️ From the side of [MrMalik](https://github.com/mrmalikoffl) Thank you [Team-EvaMaria](https://github.com/EvamariaTG) for their awesome repository.
  - ❤️ Thanks To Dan For His Awesome [Library](https://github.com/pyrogram/pyrogram).
@@ -137,11 +145,12 @@ python3 bot.py
  - ❤️ Thanks To [Trojanz](https://github.com/trojanzhex) for Their Awesome [Unlimited Filter Bot](https://github.com/TroJanzHEX/Unlimited-Filter-Bot) And [AutoFilterBoT](https://github.com/trojanzhex/auto-filter-bot).
  - ❤️ Thanks To All Everyone In This Journey
 
-🌟 Note
+🌟 𝐍𝐨𝐭𝐞
 
 [Join Developer Channel](https://t.me/+rN9QCFgIihgyZWM1): MS Bots
 
-🌟 Disclaimer
+🌟 𝐃𝐢𝐬𝐜𝐥𝐚𝐢𝐦𝐞𝐫
+
 [![GNU Affero General Public License 2.0](https://www.gnu.org/graphics/agplv3-155x51.png)](https://www.gnu.org/licenses/agpl-3.0.en.html#header)    
 Licensed under [GNU AGPL 2.0.](https://github.com/mrmalikoffl/MsFilmFactoryV2/blob/main/LICENSE)
 Selling The Codes To Other People For Money Is *Strictly Prohibited*.
