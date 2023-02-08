@@ -8,32 +8,32 @@
 
 🌟 Features
 
- 🔥 New feature : 
- 🔥 ⚡️ Support 2GB + Files ⚡️
- 🔥 Auto Filter
- 🔥 Manual Filter
- 🔥 IMDB
- 🔥 Admin Commands
- 🔥 Broadcast
- 🔥 Index
- 🔥 IMDB search
- 🔥 Inline Search
- 🔥 Random pics
- 🔥 ids and User info 
- 🔥 Stats, Users, Chats, Ban, Unban, Leave, Disable, Channel
- 🔥 Spelling Check Feature
- 🔥 File Store
+ - 🔥 New feature : 
+ - 🔥 ⚡️ Support 2GB + Files ⚡️
+ - 🔥 Auto Filter
+ - 🔥 Manual Filter
+ - 🔥 IMDB
+ - 🔥 Admin Commands
+ - 🔥 Broadcast
+ - 🔥 Index
+ - 🔥 IMDB search
+ - 🔥 Inline Search
+ - 🔥 Random pics
+ - 🔥 ids and User info 
+ - 🔥 Stats, Users, Chats, Ban, Unban, Leave, Disable, Channel
+ - 🔥 Spelling Check Feature
+ - 🔥 File Store
 
 🌟 What's New ?
 
- ⚡️ URL Shortener Added
- ⚡️ Self Delete Added (Auto delete)
- ⚡️ Filter On Off Option Added
- ⚡️ Custom Welcome Message
- ⚡️ URL Shortener Added
- ⚡️ Custom Download Name And URL
- ⚡️ Custom Texts (About, Help, Stats,More..)
- ⚡️ Custom URL Buttons (Updates channel, Add To Group, Force Sub, More...)
+ - ⚡️ URL Shortener Added
+ - ⚡️ Self Delete Added (Auto delete)
+ - ⚡️ Filter On Off Option Added
+ - ⚡️ Custom Welcome Message
+ - ⚡️ URL Shortener Added
+ - ⚡️ Custom Download Name And URL
+ - ⚡️ Custom Texts (About, Help, Stats,More..)
+ - ⚡️ Custom URL Buttons (Updates channel, Add To Group, Force Sub, More...)
 
 🌟 Variables
 
