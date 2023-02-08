@@ -88,8 +88,9 @@ You can deploy this bot anywhere.
 <br>
 <a href="https://dashboard.render.com/select-repo?type=web">
   <img src="https://render.com/images/deploy-to-render-button.svg" alt="deploy-to-render">
-  </a>
-  </p>
+</a>
+</p>
+</details>
 
 <details><summary>Deploy To VPS</summary>
 <p>
