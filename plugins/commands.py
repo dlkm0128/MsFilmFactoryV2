@@ -26,7 +26,7 @@ async def start(client, message):
                 InlineKeyboardButton('🔔 BOT Updates 🤖', url='https://t.me/+rN9QCFgIihgyZWM1')
             ],
             [
-                InlineKeyboardButton('⚡ Movie Updates ⚡', url=f"https://telegram.me/TN68_FilmFactory"),
+                InlineKeyboardButton('⚡ Movie Updates ⚡', url=f"https://t.me/+yBY721GjkiFjZDBl"),
             ],
             [
                 InlineKeyboardButton(text=DOWNLOAD_TEXT_NAME,url=DOWNLOAD_TEXT_URL)
@@ -47,7 +47,7 @@ async def start(client, message):
         buttons = [[
             InlineKeyboardButton('➕↖️ Add Me To Your Groups ↗️➕', url=f'http://t.me/{temp.U_NAME}?startgroup=true')
             ],[
-            InlineKeyboardButton('⚡ Movie Updates ⚡', url=f"https://telegram.me/TN68_FilmFactory"),
+            InlineKeyboardButton('⚡ Movie Updates ⚡', url=f"https://t.me/+yBY721GjkiFjZDBl"),
             InlineKeyboardButton('🔔 BOT Updates 🤖', url='https://t.me/+rN9QCFgIihgyZWM1')
             ],[
              InlineKeyboardButton('🙆🏻 Help 🦾', callback_data='help'),
@@ -93,7 +93,7 @@ async def start(client, message):
         buttons = [[
             InlineKeyboardButton('➕↖️ Add Me To Your Groups ↗️➕', url=f'http://t.me/{temp.U_NAME}?startgroup=true')
             ],[
-            InlineKeyboardButton('⚡ Movie Updates ⚡', url=f"https://telegram.me/TN68_FilmFactory"),
+            InlineKeyboardButton('⚡ Movie Updates ⚡', url=f"https://t.me/+yBY721GjkiFjZDBl"),
             InlineKeyboardButton('🔔 BOT Updates 🤖', url='https://t.me/+rN9QCFgIihgyZWM1')
             ],[
              InlineKeyboardButton('🙆🏻 Help 🦾', callback_data='help'),
