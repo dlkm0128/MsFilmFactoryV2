@@ -11,27 +11,30 @@ def is_enabled(value, default):
         return default
 
 class script(object):
-    HOME_BUTTONURL_UPDATES = environ.get("HOME_BUTTONURL_UPDATES", 'https://t.me/MsFilmFactory_Bot')
+    HOME_BUTTONURL_UPDATES = environ.get("HOME_BUTTONURL_UPDATES", 'https://t.me/DisneyplusHotstar_TR_Bot)
     START_TXT = environ.get("START_TXT", '''Hello {},
 Myself <a href=https://t.me/{}>{}</a>,\n\nTrust me ! I have more than 1 million files to serve you \n\nKeep Support Me''')
     HELP_TXT = """𝙷𝙴𝚈 {}
 𝙷𝙴𝚁𝙴 𝙸𝚂 𝙼𝚈 𝙷𝙴𝙻𝙿 𝙲𝙾𝙼𝙼𝙰𝙽𝙳𝚂."""
     ABOUT_TXT = """
-╔════❰ MS FILM FACTORY ❱═❍⊱❁۪۪
+╔════❰ KALI FILM FACTORY ❱═❍⊱❁۪۪
 ║ ┏━━━━━━━━━━━━━━━➣
 ║ ┣⪼ 𝙼𝚈 𝙽𝙰𝙼𝙴: {}
-║ ┣⪼ 𝙲𝚁𝙴𝙰𝚃𝙾𝚁: ✨ <a href=https://t.me/mrmalik_offl>Mr Malik</a> ✨
+║ ┣⪼ 𝙲𝚁𝙴𝙰𝚃𝙾𝚁: ✨ <a href=https://t.me/Kalitgadmin_Bot>Mr Malik</a> ✨
 ║ ┣⪼ 𝙻𝙸𝙱𝚁𝙰𝚁𝚈: 𝙿𝚈𝚁𝙾𝙶𝚁𝙰𝙼
 ║ ┣⪼ 𝙻𝙰𝙽𝙶𝚄𝙰𝙶𝙴: 𝙿𝚈𝚃𝙷𝙾𝙽 𝟹
 ║ ┣⪼ 𝙳𝙰𝚃𝙰 𝙱𝙰𝚂𝙴: 𝙼𝙾𝙽𝙶𝙾 𝙳𝙱
 ║ ┣⪼ 𝙱𝙾𝚃 𝚂𝙴𝚁𝚅𝙴𝚁: KOYEB
-║ ┣⪼ 𝙱𝚄𝙸𝙻𝙳 𝚂𝚃𝙰𝚃𝚄𝚂: v1.0.1 [ MS FILM FACTORY ]
+║ ┣⪼ 𝙱𝚄𝙸𝙻𝙳 𝚂𝚃𝙰𝚃𝚄𝚂: v1.0.1 [ KALI FILM FACTORY ]
 ║ ┗━━━━━━━━━━━━━━━➣
 ╚══════════════════❍⊱❁"""
-    SOURCE_TXT = """<b>Ms Film Factory is an open source project</b>
+    SOURCE_TXT = """<b>Hᴇʏ, Tʜɪs ʙᴏᴛ ɪs ᴀ ɴᴏᴛ  Oᴘᴇɴ Sᴏᴜʀᴄᴇ Pʀᴏᴊᴇᴄᴛ ɪᴛ ɪꜱ ᴘʀɪᴠᴀᴛᴇ ꜱᴏᴜʀᴄᴇ ᴘʀᴏᴊᴇᴄᴛ.
 
-You can easily get its source code from github - <a href='https://github.com/mrmalikoffl/MsFilmFactoryV2'>Mr Malik</a>"""
-    MANUELFILTER_TXT = """Help: <b>Filters</b>
+👀 Bᴜᴛ, Dᴏɴ'ᴛ ᴡᴏʀʀʏ ʙʀᴏ I ᴄʀᴇᴀᴛᴇ ʙᴏᴛ ꜰᴏʀ ʏᴏᴜ ᴊᴜꜱᴛ ᴄᴏɴᴛᴀᴄᴛ ᴅᴇᴠᴇʟᴏᴘᴇʀ Aɴᴅ Pᴀʏ Mᴏɴᴇʏ 200Rꜱ Mᴏɴᴛʜʟʏ💸
+
+Developer - <a href='https://t.me/Kalitgadmin_Bot'>ᴄʟɪᴄᴋ ʜᴇʀᴇ</a> </b>"""
+
+MANUELFILTER_TXT = """Help: <b>Filters</b>
 
 - Filter is the feature were users can set automated replies for a particular keyword and Search Bot will respond whenever a keyword is found the message
 
